@@ -38,6 +38,7 @@ Official:
 - Old pearOS Official Website : https://beta.pearos.cf/
 - pearOS Official YouTube : https://www.youtube.com/channel/UCPDoVlbiFrjrfqNpPMh__sA
 - pearOS WhatsApp Group : https://chat.whatsapp.com/GyNugLyh336FXNqogxvCym
+- pearOS Discord Server : https://discord.com/invite/FYGBBgJ3Xx
 
 ## Thanks
 
