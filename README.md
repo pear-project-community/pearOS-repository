@@ -1,4 +1,4 @@
-# Download-pearOS-repository
+# pearOS-repository's
 A repository with all link for download pearOS versions
 
 ## pearOS links
