@@ -40,7 +40,7 @@ Official:
 
 - pearOS Script (Outdated) : https://drive.google.com/file/d/177MRmwwFEeQ1RCyEy6ZTeZQv0DrKc8YQ/view?usp=sharing by Casper
 
-- pearOS 9.3 : https://drive.google.com/file/d/1F_iNe_BVFwTp4nW0PIrKZZF1dScyhCMK/view
+- pearOS 9.3 (Outdated) : https://drive.google.com/file/d/1F_iNe_BVFwTp4nW0PIrKZZF1dScyhCMK/view
 
 <strong> More Links! </strong>
 
