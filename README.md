@@ -36,6 +36,8 @@ Official:
 
 - pearOS SnowMojave (Deprecated, Google Drive): https://drive.google.com/file/d/1b8-0FRlmi2Pr379kTrirPyW0Y8rSRcgW/view?usp=sharing - Jolo
 
+- pearOS SnowMojave (Outdated, Official) : https://drive.google.com/file/d/10e0fWBZZOu9LGpWyI4onnZnMR-bmpAuE/view by alxb421
+
 - pearOS Catalina (Outdated) : https://drive.google.com/file/d/1VTo_ZjYsDDzuTeZdGawsYb_hvry8Jkyx/view?usp=sharing by Casper
 
 - pearOS Script (Outdated) : https://drive.google.com/file/d/177MRmwwFEeQ1RCyEy6ZTeZQv0DrKc8YQ/view?usp=sharing by Casper
