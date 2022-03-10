@@ -55,6 +55,7 @@ A repository with all link for download pearOS versions
 - pearOS Official YouTube : https://www.youtube.com/channel/UCPDoVlbiFrjrfqNpPMh__sA
 - pearOS WhatsApp Group : https://chat.whatsapp.com/GyNugLyh336FXNqogxvCym
 - pearOS Discord Server : https://discord.com/invite/FYGBBgJ3Xx
+- pearOS Twitter account : https://twitter.com/PearLinux
 
 ## Thanks
 
