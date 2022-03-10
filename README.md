@@ -51,7 +51,6 @@ A repository with all link for download pearOS versions
 <strong> More Links! </strong>
 
 - pearOS Official Website : https://pearos.xyz/
-- Old pearOS Official Website : https://beta.pearos.cf/
 - pearOS Official YouTube : https://www.youtube.com/channel/UCPDoVlbiFrjrfqNpPMh__sA
 - pearOS WhatsApp Group : https://chat.whatsapp.com/GyNugLyh336FXNqogxvCym
 - pearOS Discord Server : https://discord.com/invite/FYGBBgJ3Xx
