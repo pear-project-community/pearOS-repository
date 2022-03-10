@@ -13,9 +13,9 @@ A repository with all link for download pearOS versions
 
 - Unofficial (this repo :) ) : https://github.com/pear-project-community
 
-<strong> Download Link </strong>
+<h3><strong> Download Link </strong></h3>
 
-Official:
+<strong> Official: </strong>
 - pearOS ThiccSur : https://thiccsur.pearos.xyz/
 
 - pearOS Catalina Remake : https://catalina.pearos.xyz/download/
@@ -29,6 +29,12 @@ Official:
 - pearOS Monterey : https://drive.google.com/file/d/1yo6V4OSWBerdSRAcSv9JgN0tJUKoQIqQ/view?usp=sharing by agam778
 
 - pearOS Catalina Remake : https://mega.nz/file/SuADRCCI#dMjip-Vz3etIJc3OWTzoxoF_mPtEqjkfYGxkzX8F32Q by alxb421
+
+- niceC0re Arch download link {ALPHA}: https://github.com/pearOS-archlinux/iso/releases/ by alxb421
+
+- pearOS Catalina (macOS catalina clone): https://mega.nz/file/SuADRCCI#dMjip-Vz3etIJc3OWTzoxoF_mPtEqjkfYGxkzX8F32Q by alxb421
+
+- pearOS Gnome Transformation Script (Outdated, very very old, for old Ubuntu, macOS catalina clone): https://drive.google.com/file/d/177MRmwwFEeQ1RCyEy6ZTeZQv0DrKc8YQ/view?usp=sharing by Casper
 
 - pearOS Cupertino (Outdated) : https://mega.nz/file/XnxW2LgC#g9UL0TnPo1hhNw1FwiM0OPet-3KnEmG39TIMseW2MFM by Casper
 
