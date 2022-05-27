@@ -9,18 +9,9 @@ A repository with all link for download pearOS versions
 
 - Official (Arch Base) : https://github.com/pearOS-archlinux/
 
-- Unofficial (maintenened by Daiwik) : https://github.com/Pear-Project-arch
-
 - Unofficial (this repo :) ) : https://github.com/pear-project-community
 
 <h3><strong> Download Link </strong></h3>
-
-<strong> Official: </strong>
-- pearOS ThiccSur : https://thiccsur.pearos.xyz/
-
-- pearOS Catalina Remake : https://catalina.pearos.xyz/download/
-
-- pearOS Monterey : https://monterey.pearos.xyz/
 
 <strong> Unofficial mirror: </strong>
 
