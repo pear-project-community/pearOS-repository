@@ -39,6 +39,14 @@ A repository with all link for download pearOS versions
 
 - pearOS 9.3 (Outdated) : https://drive.google.com/file/d/1F_iNe_BVFwTp4nW0PIrKZZF1dScyhCMK/view
 
+<strong> Unofficial mirror (Torrent Link): </strong>
+
+- pearOS NiceC0re (Arch Based) : https://linuxtracker.org/index.php?page=torrent-details&id=3816791f4e318839b7d658cc47dc94fd8cdea499
+
+  Magnet : magnet:?xt=urn:btih:HALHSH2OGGEDTN6WLDGEPXEU7WGN5JEZ
+
+(Thanks to SolarSeven on Discord)
+
 <strong> More Links! </strong>
 
 - pearOS Official Website : https://pearos.xyz/
